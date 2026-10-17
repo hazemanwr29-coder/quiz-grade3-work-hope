@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "include": [
+    "/submit-result",
+    "/teacher-dashboard",
+    "/get-config",
+    "/save-settings",
+    "/clear-teacher-logs"
+  ],
+  "exclude": []
+}
